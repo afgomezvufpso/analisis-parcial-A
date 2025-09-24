@@ -27,6 +27,19 @@ Si dos son del mismo orden, indícalo.
 
 ![Logo](https://lh3.googleusercontent.com/pw/AP1GczOgpGBrm2bFBeJEo7b9KpmVW1WB0J7_4xhzREWWmsjd8ejMOn5_QmXnv9ji2z7BlyVAVmYl0jOEs01Vmf9-wEbyuZo7S5DK2xYmuN-cOR2my9LOms5kM5FlcbG3I19k3Xc8nwGVtFKco2O2QXg4DLUn=w128-h290-s-no?authuser=0)
 
+### Solución
+
+1. Log2 n
+2. (Log2 n)^2
+3. n / Log2 n
+4. sqrt(n)
+5. n
+6. n log2 n
+7. n^1.5
+8. n^2
+9. 2^n
+10. n!
+
 ---
 
 ### Punto 2 (25 pts) — Identifica y confronta
