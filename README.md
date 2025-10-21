@@ -41,6 +41,19 @@ Si dos son del mismo orden, indícalo.
 10. n!
 
 ---
+### Solución (correción)
+
+1. log₂(n)
+2. (log₂(n))²
+3. √n
+4. n / log₂(n)
+5. n
+6. n·log₂(n)
+7. n¹·⁵
+8. n²
+9. 2ⁿ
+10. n!
+---
 
 ### Punto 2 (25 pts) — Identifica y confronta
 Asocia cada \(T(n)\) con un algoritmo plausible. Luego compara **dos pares** y encuentra el umbral de `n` con un `for` + `if`.
